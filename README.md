@@ -4,7 +4,7 @@ I'm Mariely Becker (but you can call me Mari). I'm from Canoas, Brazil and I'm a
 
 * :bulb: I'm an undergraduate student in Software Analysis and Development and I also have a degree in Veterinary Medicine;
 * :computer: Currently I'm studying JavaScript;
-* :dog: I love animals and I have a pet named Snow. 
+* :dog: I love animals and I have a pet named Snow; 
 * :email: Feel free to [e-mail](mailto:marielybeckerf@gmail.com) me.
 
 Also you can following me on: 
